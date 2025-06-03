@@ -1,0 +1,26 @@
+Name:ron
+Password:r
+Address:
+city:r
+street:r
+num of buildings:3
+state:r
+orders:
+There are no paid orders.
+shopping cart:
+Name:game 1,ID:1,Price:5050,(including special packaging),Category:Kids
+
+
+Name:r
+Password:10
+Address:
+city:r
+street:r
+num of buildings:10
+state:r
+orders:
+There are no paid orders.
+shopping cart:
+Name:game 2,ID:2,Price:150,Category:Kids
+
+

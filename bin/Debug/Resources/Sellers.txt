@@ -1,0 +1,53 @@
+Name:a
+Password:a
+Address:
+city:a
+street:a
+num of buildings:3
+state:a
+shopping cart:
+Name:game 1,ID:1,Price:5050,(including special packaging),Category:Kids
+Name:game 2,ID:2,Price:150,Category:Kids
+
+
+Name:rr
+Password:a
+Address:
+city:r
+street:r
+num of buildings:3
+state:r
+shopping cart:
+There are no products for now
+
+Name:gilad
+Password:a
+Address:
+city:a
+street:a
+num of buildings:3
+state:a
+shopping cart:
+There are no products for now
+
+Name:noya
+Password:a
+Address:
+city:y
+street:y
+num of buildings:5
+state:y
+shopping cart:
+There are no products for now
+
+Name:moshe
+Password:t
+Address:
+city:t
+street:t
+num of buildings:10
+state:t
+shopping cart:
+Name:game 3,ID:3,Price:0,Category:Office
+
+

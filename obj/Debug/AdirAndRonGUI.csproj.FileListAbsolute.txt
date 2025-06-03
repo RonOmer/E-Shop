@@ -1,0 +1,26 @@
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\מטלות\EShop\EShop\bin\Debug\EShop.exe.config
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\מטלות\EShop\EShop\bin\Debug\EShop.exe
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\מטלות\EShop\EShop\bin\Debug\EShop.pdb
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\מטלות\EShop\EShop\obj\Debug\EShop.csproj.AssemblyReference.cache
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\מטלות\EShop\EShop\obj\Debug\EShop.FormAddProductToSeller.resources
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\מטלות\EShop\EShop\obj\Debug\EShop.FormAddUser.resources
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\מטלות\EShop\EShop\obj\Debug\EShop.FormShowAll.resources
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\מטלות\EShop\EShop\obj\Debug\EShop.FormAddProductToBuyer.resources
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\מטלות\EShop\EShop\obj\Debug\EShop.MainForm.resources
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\מטלות\EShop\EShop\obj\Debug\EShop.csproj.GenerateResource.cache
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\מטלות\EShop\EShop\obj\Debug\EShop.csproj.CoreCompileInputs.cache
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\מטלות\EShop\EShop\obj\Debug\EShop.exe
+C:\Users\ronom\OneDrive\שולחן העבודה\לימודים\שנה א\סמסטר ב\תכנות מונחה עצמים\מטלות\EShop\EShop\obj\Debug\EShop.pdb
+C:\Users\ronom\OneDrive\שולחן העבודה\Projects\EShop\EShop\bin\Debug\EShop.exe.config
+C:\Users\ronom\OneDrive\שולחן העבודה\Projects\EShop\EShop\bin\Debug\EShop.exe
+C:\Users\ronom\OneDrive\שולחן העבודה\Projects\EShop\EShop\bin\Debug\EShop.pdb
+C:\Users\ronom\OneDrive\שולחן העבודה\Projects\EShop\EShop\obj\Debug\EShop.csproj.AssemblyReference.cache
+C:\Users\ronom\OneDrive\שולחן העבודה\Projects\EShop\EShop\obj\Debug\EShop.FormAddProductToSeller.resources
+C:\Users\ronom\OneDrive\שולחן העבודה\Projects\EShop\EShop\obj\Debug\EShop.FormAddUser.resources
+C:\Users\ronom\OneDrive\שולחן העבודה\Projects\EShop\EShop\obj\Debug\EShop.FormShowAll.resources
+C:\Users\ronom\OneDrive\שולחן העבודה\Projects\EShop\EShop\obj\Debug\EShop.FormAddProductToBuyer.resources
+C:\Users\ronom\OneDrive\שולחן העבודה\Projects\EShop\EShop\obj\Debug\EShop.MainForm.resources
+C:\Users\ronom\OneDrive\שולחן העבודה\Projects\EShop\EShop\obj\Debug\EShop.csproj.GenerateResource.cache
+C:\Users\ronom\OneDrive\שולחן העבודה\Projects\EShop\EShop\obj\Debug\EShop.csproj.CoreCompileInputs.cache
+C:\Users\ronom\OneDrive\שולחן העבודה\Projects\EShop\EShop\obj\Debug\EShop.exe
+C:\Users\ronom\OneDrive\שולחן העבודה\Projects\EShop\EShop\obj\Debug\EShop.pdb
